@@ -1,9 +1,9 @@
 {
-    "name": "overtrue/laravel-wechat",
-    "description": "微信 SDK for Laravel",
+    "name": "meixiaoqiu/laravel-wechat",
+    "description": "微信 SDK for Laravel fork from overtrue/laravel-wechat",
     "keywords": ["wechat", "weixin","laravel", "sdk"],
     "require": {
-        "overtrue/wechat": "~3.0"
+        "meixiaoqiu/wechat": "~3.0"
     },
     "autoload": {
         "psr-4": {
@@ -15,8 +15,8 @@
     "minimum-stability" : "dev",
     "authors": [
         {
-            "name": "overtrue",
-            "email": "anzhengchao@gmail.com"
+            "name": "mxq",
+            "email": "meixiaoqiu@gmail.com"
         }
     ]
 }
