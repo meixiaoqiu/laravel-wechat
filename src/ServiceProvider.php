@@ -1,6 +1,6 @@
 <?php
 
-namespace Overtrue\LaravelWechat;
+namespace Meixiaoqiu\LaravelWechat;
 
 use Illuminate\Support\ServiceProvider as LaravelServiceProvider;
 use EasyWeChat\Foundation\Application;
